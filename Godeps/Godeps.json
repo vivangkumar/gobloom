@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/vivangkumar/gobloom",
+	"GoVersion": "go1.4",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/reusee/mmh3",
+			"Rev": "64b85163255bbb6af4f0d0eab61ecdda7ea7cd96"
+		},
+		{
+			"ImportPath": "github.com/smalllixin/bitarray",
+			"Rev": "f792a6032f31558bca8b96eb298bbe5c3eada280"
+		}
+	]
+}
